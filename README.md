@@ -20,7 +20,7 @@ spc-aat/
 
 ## How It Works
 
-1. The **server** listens on port 9000 and waits for a client to connect.
+1. The **server** listens on port 9090 and waits for a client to connect.
 2. The **client** connects to the server and lets you type commands.
 3. Every message sent between client and server is **encrypted** using a Caesar cipher (shift of 3). The receiver decrypts it before processing.
 
