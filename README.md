@@ -5,7 +5,7 @@ A simple client-server application that communicates over TCP using STTP (Simple
 ## Project Structure
 
 ```
-spc-aat/
+sttp/
 ├── include/
 │   ├── constants.h      # Port, buffer size, and cipher shift
 │   └── crypto.h         # Encryption function declarations
